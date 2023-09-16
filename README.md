@@ -1,2 +1,3 @@
 # printf
-am solomon and as a contributor 
+
+Collaborator: [Solomon Agyen](https://github.com/SolomonAgyen)
